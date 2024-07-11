@@ -1,5 +1,5 @@
 {
-  "name": "express-prisma-migrator",
+  "name": "autograte",
   "version": "1.0.0",
   "description": "Automated migration generator for Express and Prisma",
   "main": "dist/index.js",
